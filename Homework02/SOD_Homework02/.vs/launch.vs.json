@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "SOD_Homework02.exe (SOD_Homework02\\SOD_Homework02.exe)",
+      "name": "SOD_Homework02.exe (SOD_Homework02\\SOD_Homework02.exe)"
+    }
+  ]
+}
